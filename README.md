@@ -1,0 +1,1 @@
+# angular-component-development-based-on-figma-design-18765-18779
